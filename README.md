@@ -27,7 +27,8 @@ List of so some cool JS snippets which I have created and found while doing rese
 2. [client-side-encryption-bypass-part-2](https://bhattsameer.github.io/2021/02/14/client-side-encryption-bypass-part-2.html)  
 3. [client-side-encryption-bypass-part-3]()  
 
-Follow me:  
+**Follow me:**
+
 Twitter : [@sameer_bhatt](https://twitter.com/sameer_bhatt)  
 Github  : [bhattsameer](https://github.com/bhattsameer)  
 LinkedIn: [bhatt-sameer](https://linkedin.com/in/bhatt-sameer)
