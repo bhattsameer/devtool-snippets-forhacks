@@ -5,11 +5,11 @@ List of so some cool JS snippets which I have created and found while doing rese
 
 | Sr. No. | Snippet | Description | Example |
 |---------|---------|-------------|---------|
-|1.| consolesave.js | Used for saving console output in a file. | console.save("data");|
-|2.| getCurrentURLHeaders.js | Used for fetching the Current URL Headers in console (table format) | |
-|3.| developers_mindset.js | Just an example of how monitor() works | |
-|4.| fuzzit.js | fuzzing encrypted parameter using devtools only | |
-|5.| fuzz_with_websocket.js | fuzzing encrypted parameters using devtools only with ws:// integration | |
+|1.| [consolesave.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/consolesave.js) | Used for saving console output in a file. | console.save("data");|
+|2.| [getCurrentURLHeaders.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/getCurrentURLHeaders.js) | Used for fetching the Current URL Headers in console (table format) | - |
+|3.| [developers_mindset.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/developers_mindset.js) | Just an example of how monitor() works | - |
+|4.| [fuzzit.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/fuzzit.js) | fuzzing encrypted parameter using devtools only | - |
+|5.| [fuzz_with_websocket.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/fuzz_with_websocket.js) | fuzzing encrypted parameters using devtools only with ws:// integration | - |
 
 ## How to run above snippets?
 
@@ -23,6 +23,6 @@ List of so some cool JS snippets which I have created and found while doing rese
 
 ## There is complete series of how to bypass client side encryption and fuzz the encrypted parameters using devtools.
 
-1. Part-1  
-2. Part-2  
-3. Part-3  
+1. [client-side-encryption-bypass-part-1](https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html)  
+2. [client-side-encryption-bypass-part-2](https://bhattsameer.github.io/2021/02/14/client-side-encryption-bypass-part-2.html)  
+3. [client-side-encryption-bypass-part-3]()
