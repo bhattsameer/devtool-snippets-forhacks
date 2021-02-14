@@ -1,7 +1,7 @@
 ## DevTools snippet collection:
 
-**TL;DR**
-List of so some cool JS snippets which I have created and found while doing research of client side encryption bypass using devtool only:
+**TL;DR**  
+List of so some cool JS snippets which I have created and found while doing research of client side encryption bypass using devtool only.
 
 | Sr. No. | Snippet | Description | Example |
 |---------|---------|-------------|---------|
@@ -23,6 +23,6 @@ List of so some cool JS snippets which I have created and found while doing rese
 
 ## There is complete series of how to bypass client side encryption and fuzz the encrypted parameters using devtools.
 
-1. Part-1
-2. Part-2
-3. Part-3
+1. Part-1  
+2. Part-2  
+3. Part-3  
