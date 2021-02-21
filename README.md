@@ -24,7 +24,8 @@ List of so some cool JS snippets which I have created and found while doing rese
 ## There is complete series of how to bypass client side encryption and fuzz the encrypted parameters using devtools.
 
 1. [client-side-encryption-bypass-part-1](https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html)  
-2. [client-side-encryption-bypass-part-2](https://bhattsameer.github.io/2021/02/14/client-side-encryption-bypass-part-2.html)    
+2. [client-side-encryption-bypass-part-2](https://bhattsameer.github.io/2021/02/14/client-side-encryption-bypass-part-2.html)  
+3. [client-side-encryption-bypass-part-3](https://bhattsameer.github.io/2021/02/21/client-side-encryption-bypass-part-3.html)  
 
 **Follow me:**
 
