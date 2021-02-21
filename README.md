@@ -1,7 +1,7 @@
 ## DevTools snippet collection:
 
 **TL;DR**  
-List of so some cool JS snippets which I have created and found while doing research of client side encryption bypass using devtool only.
+List of some cool JS snippets which I have created and found while doing research of client side encryption bypass using devtool only.
 
 | Sr. No. | Snippet | Description | Example |
 |---------|---------|-------------|---------|
