@@ -10,6 +10,7 @@ List of some cool JS snippets which I have created and found while doing researc
 |3.| [developers_mindset.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/developers_mindset.js) | Just an example of how monitor() works | - |
 |4.| [fuzzit.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/fuzzit.js) | fuzzing encrypted parameter using devtools only | - |
 |5.| [fuzz_with_websocket.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/fuzz_with_websocket.js) | fuzzing encrypted parameters using devtools only with ws:// integration | - |
+|6.| [JSEncrypt_fuzz.js](https://github.com/bhattsameer/devtool-snippets-forhacks/blob/main/Snippets/JSEncrypt_fuzz.js) | snippet for making JSEncrypt automate | - |
 
 ## How to run above snippets?
 
